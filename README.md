@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+
 
 # Run and deploy the application
 
@@ -12,8 +10,7 @@ This repository contains everything you need to run the app locally.
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key.
-3. Run the app:
+2. Run the app:
    `npm run dev`
 
 ---
@@ -23,7 +20,7 @@ This repository contains everything you need to run the app locally.
 **Indra Sena Reddy**
 Python Full Stack Developer
 
-* **GitHub:** [github.com/Indrasenareddy](https://github.com/Indrasenareddy)
-* **LinkedIn:** [linkedin.com/in/Indrasenareddy](https://linkedin.com/in/Indrasenareddy)
-* **Website:** [indriax.com](https://indriax.com)
+* **GitHub:** [github.com/Indrasenareddy](https://github.com/indrareddy93)
+* **LinkedIn:** [linkedin.com/in/Indrasenareddy](https://www.linkedin.com/in/indra-sena-reddy-balapanuru-294414258/)
 * **Email:** indrasenareddy279@gmail.com
+* **mobile number:** 6301320414
