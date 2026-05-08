@@ -21,6 +21,7 @@ This repository contains everything you need to run the app locally.
 **Indra Sena Reddy**
 Python Full Stack Developer
 
-* **GitHub:** [github.com/Indrasenareddy](https://github.com/Indrasenareddy)
-* **LinkedIn:** [linkedin.com/in/Indrasenareddy](https://linkedin.com/in/Indrasenareddy)
+* **GitHub:** [github.com/Indrasenareddy](https://github.com/indrareddy93)
+* **LinkedIn:** [linkedin.com/in/Indrasenareddy](https://www.linkedin.com/in/indra-sena-reddy-balapanuru-294414258/)
 * **Email:** indrasenareddy279@gmail.com
+* **mobile number:** 6301320414
