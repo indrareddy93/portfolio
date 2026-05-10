@@ -181,7 +181,7 @@ export function Hero() {
                 <p className="text-sm font-black text-brand-black">Team Lead</p>
               </div>
             </motion.div>
-            <motion.div 
+            {/* <motion.div 
               animate={{ y: [0, 15, 0] }}
               transition={{ duration: 6, repeat: Infinity, delay: 1 }}
               className="absolute -bottom-10 -right-10 bg-white p-6 rounded-3xl shadow-2xl border border-brand-gray hidden sm:flex items-center gap-4 z-20"
@@ -191,7 +191,7 @@ export function Hero() {
                 <p className="text-[10px] font-black uppercase text-brand-black/40 tracking-widest">Specialization</p>
                 <p className="text-sm font-black text-brand-black">AI Architect</p>
               </div>
-            </motion.div>
+            </motion.div> */}
           </div>
         </motion.div>
       </div>
