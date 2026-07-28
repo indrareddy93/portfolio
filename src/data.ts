@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import profilePic from "./assects/profile_pic.JPG";
+import profilePic from "./assects/profile_pic.png";
 import profilePicNav from "./assects/profile.jpeg";
 import resumePdf from "./assects/indrasenareddy_pythonfullstackdev.pdf";
 
